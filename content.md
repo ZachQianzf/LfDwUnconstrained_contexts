@@ -15,7 +15,7 @@ The framework is proposed to enable robots to perform new tasks by watching huma
 ## Videos
 
 <div>
-		<video height="100%" width="100%" controls>
+		<video  width="100%" controls>
 		  <source src="./video/video.mp4" type="video/mp4">
 		</video>
 
@@ -37,3 +37,6 @@ The code and data will be released soon!
 &nbsp; 
 　
 ----
+
+&nbsp;
+
