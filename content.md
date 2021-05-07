@@ -11,7 +11,7 @@ The framework is proposed to enable robots to perform new tasks by watching huma
 
 ----
 
-## Videos
+## Video
 
 <div>
 		<video  height="80%" width="100%" controls>
