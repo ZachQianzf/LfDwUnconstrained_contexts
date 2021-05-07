@@ -3,7 +3,7 @@
 
 ## Videos
 
-<div class="w1-row-padding">
+<div>
 		<video height="auto" width="100%" controls>
 		  <source src="./video/video.mp4" type="video/mp4">
 		</video>
