@@ -3,11 +3,16 @@
 
 ## Videos
 
-<div class="w3-row-padding">
-	<div class="w3-col s4 w1-center">
+<div class="w1-row-padding">
 		<video height="auto" width="100%" controls>
 		  <source src="./video/video.mp4" type="video/mp4">
 		</video>
-	</div>
+
 	
 </div>
+
+----
+
+## Code & Dataset
+
+The code and data will be released soon!
